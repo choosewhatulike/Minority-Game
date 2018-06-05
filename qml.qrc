@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>frontend/main.qml</file>
+        <file>frontend/PauseIcon.qml</file>
+        <file>frontend/PlayButton.qml</file>
+        <file>frontend/PlayIcon.qml</file>
+        <file>frontend/VerticalTabBar.qml</file>
+        <file>frontend/TabButton.qml</file>
+    </qresource>
+</RCC>
